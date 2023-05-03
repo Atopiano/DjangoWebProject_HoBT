@@ -1,0 +1,2 @@
+# ignore base.py in HoBT/config/settings
+HoBT/config/settings/base.py
